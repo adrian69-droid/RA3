@@ -1,0 +1,4 @@
+event_type,total,media,mediana,desvio_padrao,minimo,maximo,amplitude
+click,1,150.5,150.5,,150.5,150.5,0.0
+purchase,2,1070.375,1070.375,255.08877131304703,890.0,1250.75,360.75
+view,1,0.0,0.0,,0.0,0.0,0.0

@@ -1,0 +1,6 @@
+{"event_id": "EVT-001", "user_id": 101, "event_type": "click", "value": 150.50, "timestamp": "2026-09-16T10:00:00Z"}
+{"event_id": "EVT-002", "user_id": 102, "event_type": "purchase", "value": 890.00, "timestamp": "2026-09-16T10:05:00Z"}
+{"event_id": "EVT-003", "user_id": null, "event_type": "click", "value": -50.00, "timestamp": "invalid_date"}
+{"event_id": "EVT-001", "user_id": 101, "event_type": "click", "value": 150.50, "timestamp": "2026-09-16T10:00:00Z"}
+{"event_id": "EVT-004", "user_id": 104, "event_type": "purchase", "value": 1250.75, "timestamp": "2026-09-16T10:15:00Z"}
+{"event_id": "EVT-005", "user_id": 105, "event_type": "view", "value": 0.00, "timestamp": "2026-09-16T10:20:00Z"}

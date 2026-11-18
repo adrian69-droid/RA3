@@ -1,0 +1,4 @@
+event_type,qtd,proporcao,media_valor,mediana_valor,std_valor,max_valor,media_duracao,mediana_duracao,media_paginas,media_cliques
+click,448,0.3,28.73,0.0,50.37,150.5,157.06,104.0,4.96,4.5
+purchase,311,0.21,793.03,689.67,431.0,3269.49,314.5,325.0,8.55,7.75
+view,741,0.49,0.0,0.0,0.0,0.0,67.97,48.0,2.52,1.51
